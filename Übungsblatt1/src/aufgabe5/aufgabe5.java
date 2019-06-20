@@ -2,13 +2,13 @@ package aufgabe5;
 
 public class aufgabe5 {
     public static void main(String[] args){
-        int j = 2001;
-        if (j%4 == 0 && j%100 !=0)
+        int j = 2000;
+        if (j%4 == 0 && j% 100 ==0)
         {
-            System.out.printf("Schaltjahr");
+            System.out.printf( j + " ist ein Schaltjahr");
         }
         else{
-            System.out.printf("Kein Schaltjahr");
+            System.out.printf( j + " kein ein Schaltjahr");
         }
     }
 }
