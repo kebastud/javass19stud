@@ -3,7 +3,7 @@ package aufgabe3;
 import java.lang.Math;
 
 
-public class aufgabe4 {
+public class aufgabe3 {
 
     public static boolean getRandomBoolean() {
         return Math.random() < 0.5;
