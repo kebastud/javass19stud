@@ -4,13 +4,13 @@ public class aufgabe1 {
     public static void main(String[] args){
         int z=9;
         int s=9;
-        int inrkement;
+        int inkrement;
         for(int i=1;i<=z;i++){
-             inrkement = 5;
-             inrkement = inrkement * i;
+            inkrement = 5;
+            inkrement = inkrement * i;
             for(int j=1;j<=s;j++){
-                inrkement += 5;
-                System.out.printf(  inrkement + " " );
+                inkrement += 5;
+                System.out.printf(  inkrement + " " );
             }
             System.out.printf(   "\n" );
         }
