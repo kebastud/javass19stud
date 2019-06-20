@@ -1,4 +1,4 @@
-package augabe2;
+package aufgabe2;
 
 import java.lang.Math;
 
@@ -6,6 +6,7 @@ public class aufgabe2 {
     public static void main(String[] args) {
         double min, max;
         int r = 10;
+        int d;
         double[][] messwerte;
         messwerte = new double[r][2];
         for (int i = 0; i < r; i++) {
@@ -20,7 +21,8 @@ public class aufgabe2 {
                     messwerte[i][1] = max;
                 }
             }
-            System.out.printf("Tag: " + i +"\tMinimal: " + messwerte[i][0] + "\t\tMaximal: " + messwerte[i][1] + "\n" );
+            d=i+1;
+            System.out.printf("Tag: " + d  +"\tMinimal: " + messwerte[i][0] + "\t\t\tMaximal: " + messwerte[i][1] + "\n" );
         }
     }
 }
