@@ -1,5 +1,5 @@
 package aufgabe4;
-import java.lang.Math;
+
 public class aufgabe4 {
 
     public static String mittelwert(double a, double b, double c){
