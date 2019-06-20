@@ -1,4 +1,4 @@
-package aufgabe2;
+package aufgabe1;
 
 public class Parkhaus {
     boolean schrankeOffen;

@@ -1,4 +1,4 @@
-package Aufgabe1;
+package palindrom;
 import java.util.Scanner;
 public class Programm {
     public static void main(String[] args){

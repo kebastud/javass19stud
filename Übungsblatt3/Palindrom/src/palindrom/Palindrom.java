@@ -1,4 +1,4 @@
-package Aufgabe1;
+package palindrom;
 public class Palindrom {
     String name;
     public Palindrom(){
