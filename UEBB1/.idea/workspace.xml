@@ -10,13 +10,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../UEBB2/src/aufgabe2/aufgabe2.java">
+        <entry file="file://$PROJECT_DIR$/../Übungsblatt1/src/aufgabe2/aufgabe2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
               <caret line="25" selection-start-line="25" selection-end-line="25" />
@@ -25,7 +24,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../UEBB2/src/aufgabe3/aufgabe3.java">
+        <entry file="file://$PROJECT_DIR$/../Übungsblatt1/src/aufgabe3/aufgabe3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="26" />
@@ -34,7 +33,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../UEBB2/src/aufgabe4/aufgabe4.java">
+        <entry file="file://$PROJECT_DIR$/../Übungsblatt1/src/aufgabe4/aufgabe4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
@@ -65,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-713" />
     <option name="y" value="-13" />
     <option name="width" value="1910" />
@@ -80,6 +79,10 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="UEBB1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Übungsblatt1" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="UEBB1" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -138,7 +141,7 @@
     </configuration>
     <configuration name="aufgabe2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgabe2.aufgabe2" />
-      <module name="UEBB2" />
+      <module name="Übungsblatt1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="aufgabe2.*" />
@@ -151,7 +154,7 @@
     </configuration>
     <configuration name="aufgabe3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgabe3.aufgabe3" />
-      <module name="UEBB2" />
+      <module name="Übungsblatt1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="aufgabe3.*" />
@@ -164,7 +167,7 @@
     </configuration>
     <configuration name="aufgabe4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aufgabe4.aufgabe4" />
-      <module name="UEBB2" />
+      <module name="Übungsblatt1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="aufgabe4.*" />
@@ -199,7 +202,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2489339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -297,21 +300,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../UEBB2/src/aufgabe2/aufgabe2.java">
+    <entry file="file://$PROJECT_DIR$/../Übungsblatt1/src/aufgabe2/aufgabe2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../UEBB2/src/aufgabe3/aufgabe3.java">
+    <entry file="file://$PROJECT_DIR$/../Übungsblatt1/src/aufgabe3/aufgabe3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../UEBB2/src/aufgabe4/aufgabe4.java">
+    <entry file="file://$PROJECT_DIR$/../Übungsblatt1/src/aufgabe4/aufgabe4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" selection-start-line="18" selection-end-line="18" />

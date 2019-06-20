@@ -4,8 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../AinS/AinS.iml" filepath="$PROJECT_DIR$/../AinS/AinS.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Referenzen/Referenzen.iml" filepath="$PROJECT_DIR$/../Referenzen/Referenzen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UEBB1.iml" filepath="$PROJECT_DIR$/UEBB1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../UEBB2/UEBB2.iml" filepath="$PROJECT_DIR$/../UEBB2/UEBB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Übungsblatt1/Übungsblatt1.iml" filepath="$PROJECT_DIR$/../Übungsblatt1/Übungsblatt1.iml" />
     </modules>
   </component>
 </project>
